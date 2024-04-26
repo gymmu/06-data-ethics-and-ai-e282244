@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial"] 1714035546.76717 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bcf" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bbl" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial" 1714035646.2585 0
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bcf" 1714035645 132111 8c496cb77588bc2e0d5732393a5e16ed "pdflatex"
+["biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial"] 1714035546.76717 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bcf" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bbl" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial" 1714037081.46611 0
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bcf" 1714037080 132111 8c496cb77588bc2e0d5732393a5e16ed "pdflatex"
   (generated)
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bbl"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.blg"
   (rewritten before read)
-["pdflatex"] 1714035643.06298 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/tutorial/tutorial.tex" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/out/tutorial.pdf" "tutorial" 1714035646.25989 0
-  "01_einführung.tex" 1714031627 2850 b8fa0231346bab1487584fa0d4a3d101 ""
+["pdflatex"] 1714037077.88677 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/tutorial/tutorial.tex" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/out/tutorial.pdf" "tutorial" 1714037081.46744 0
+  "01_einführung.tex" 1714037076 3045 ed724ed179182b438d7c5eff15c0a2ba ""
   "02_grundlagen.tex" 1714031627 3530 e4895d11e19a835128073e2fd5c84392 ""
   "03_listen.tex" 1714031627 3318 e0021a187b2b2aaa986556258cd602fd ""
   "04_bilder.tex" 1714031627 3921 88d4bd394e2f43144ac69ca8ae518736 ""
@@ -156,11 +156,11 @@
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.aux" 1714035645 4171 54de7f59d61802a52e06620e4fe7fdfb "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.aux" 1714037080 4171 54de7f59d61802a52e06620e4fe7fdfb "pdflatex"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.bbl" 1714035636 486 ee04f40f768daeed26442158e95aba61 "biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.out" 1714035645 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.run.xml" 1714035645 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.toc" 1714035645 1694 aa152061a7f88b604414f2d57c762314 "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.out" 1714037080 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.run.xml" 1714037080 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/tutorial.toc" 1714037080 1694 aa152061a7f88b604414f2d57c762314 "pdflatex"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/tutorial/tutorial.tex" 1714032414 2528 4a9c41ab9c093309d22b2da533811537 ""
   "meme.jpg" 1714031627 89274 1f9d518465837da4a371903308fdd3db ""
   "tutorial.tex" 1714032414 2528 4a9c41ab9c093309d22b2da533811537 ""
