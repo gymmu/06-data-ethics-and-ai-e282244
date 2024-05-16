@@ -197,9 +197,6 @@ INPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents
 INPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents\build\notes.toc
 INPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents\build\notes.toc
 OUTPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents\build\notes.toc
-INPUT .\section_ai.tex
-INPUT .\section_ai.tex
-INPUT section_ai.tex
 INPUT C:\Users\larsb\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents\build\notes.aux
 INPUT c:\Users\larsb\OneDrive\Informatik\06-data-ethics-and-ai-e282244\documents\build\notes.out
