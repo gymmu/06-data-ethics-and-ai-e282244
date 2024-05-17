@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes"] 1714737799.49577 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes" 1715849999.84545 0
+["biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes"] 1714737799.49577 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes" 1715949869.4916 0
   "../references/bibliography.bib" 1714031627 314 8bd09f35e5c1ac76a72d8a54bd809ece ""
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf" 1715849999 132461 9d8cb3353018332e3cc5769ca06176e9 "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf" 1715949868 132461 9d8cb3353018332e3cc5769ca06176e9 "pdflatex"
   (generated)
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.blg"
   (rewritten before read)
-["pdflatex"] 1715849997.2747 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/notes/notes.tex" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/out/notes.pdf" "notes" 1715849999.84742 0
+["pdflatex"] 1715949866.8975 "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/notes/notes.tex" "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/out/notes.pdf" "notes" 1715949869.49317 0
   "C:/Users/larsb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714035492 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/larsb/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1714737796 22504 2086c306de17b6cad547999f9b202b00 ""
   "C:/Users/larsb/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1714035536 40136 e7de68be746b85c0a59dda6625225253 ""
@@ -96,13 +96,13 @@
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/larsb/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.aux" 1715849999 765 e73b12405369213e6ad43ea2b0882c21 "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.aux" 1715949868 777 10ddc27fea8a0f68fb55a2dbaadfe020 "pdflatex"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl" 1714737811 3203 57e4e7f53ceb235c1aa5f2ce5bbee7ab "biber c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.out" 1715849999 194 bfc2463763193a4121f2f628a9b4eaca "pdflatex"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.run.xml" 1715849999 2480 8cee4d3e0edc1ab73a8a092defa2fdff "pdflatex"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.toc" 1715849999 163 d9f9163377141296b4d7222394faed38 "pdflatex"
-  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/notes/notes.tex" 1715849995 1493 f3f47daa94001f15cd469322e357e186 ""
-  "notes.tex" 1715849995 1493 f3f47daa94001f15cd469322e357e186 ""
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.out" 1715949868 263 f06cec8aa76e12fc50f0734ca2a6cc6a "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.run.xml" 1715949869 2480 8cee4d3e0edc1ab73a8a092defa2fdff "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.toc" 1715949869 175 f0c244f4d5a26191206e6184c1650aea "pdflatex"
+  "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/notes/notes.tex" 1715949865 2985 fcd8655b4d590d4a784c2323e6b4b16f ""
+  "notes.tex" 1715949865 2985 fcd8655b4d590d4a784c2323e6b4b16f ""
   (generated)
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.aux"
   "c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf"
