@@ -1,11 +1,13 @@
-\documentclass{report}
-
+\documentclass{article}
+ 
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage{csquotes}
-\usepackage[a4paper]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
 
 \usepackage[
     backend=biber,
@@ -28,8 +30,8 @@
 \author{Lars}
 \date{\today}
 
-
 \parindent=0pt
+
 
 \begin{document}
 
@@ -54,6 +56,8 @@ Die Künstliche Intelligenz, geprägt von John McCarthy, umfasst Systeme, die me
 
 \citep{ostfalia-de}
 
+
+
 \section{Wie wird KI trainiert?}
 
 Die künstliche Intelligenz hat das Potenzial, unser Leben stark zu verändern, sei es durch selbstfahrende Autos oder Roboter. Doch um diese Träume zu verwirklichen, muss das KI-System darauf trainiert werden.
@@ -68,7 +72,11 @@ Die künstliche Intelligenz hat das Potenzial, unser Leben stark zu verändern, 
 
 \citep{clickworker-de}
 
+
+
 \input{chap_methode.tex}
+
+
 
 \section{Quellen}
 
