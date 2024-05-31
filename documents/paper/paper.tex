@@ -1,13 +1,13 @@
-\documentclass{article}
+\documentclass{report}
  
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage{csquotes}
-\usepackage{graphicx}
 \usepackage{float}
 \usepackage{caption}
+\usepackage{graphicx}
 
 \usepackage[
     backend=biber,
@@ -30,18 +30,23 @@
 \author{Lars}
 \date{\today}
 
-\parindent=0pt
+
+\parindent=0em
 
 
 \begin{document}
 
 \maketitle
 
-\abstract{
-    Dies ist eine Vorlage für eine Maturarbeit in der Informatik am Gymnasium Muttenz. Sie dient dazu, die Arbeit schnell und einfach zu starten und sollte einen guten Überblick über die Arbeit bieten.
+
+
+\abstract{In diesem Dokument werden die Schwierigkeiten gschildert, die mit dem Einsatz von Künstlicher Intelligenz im Gsundheitswesen verbunden sind und welche ethischen Richtlinien es dabei zu beachten gilt.
+
 }
+    
 
 \tableofcontents
+
 
 \chapter{Einleitung}
 
@@ -51,12 +56,9 @@ Die Künstliche Intelligenz, geprägt von John McCarthy, umfasst Systeme, die me
 \vspace{2mm}Die KI ist mittlerweile kaum mehr von unserer Gesellschaft wegzudenken. Dabei unterstützt sie uns beim Lösen komplexer Probleme. Was viele nicht wissen ist, dass es zwei Arten von KI gibt: schwache KI, die einfache Aufgaben erfüllen kann und diese auch mit wenigen Ausnahmen präzise ausführt, und die starke KI, die eine menschenähnliche Intelligenz und unabhängige Funktionsweisen aufweist und erfordert. Doch um eine starke KI zum Laufen zu bringen, muss sie erstmal die Funktionsweisen und Eigenschaften des menschlichen Geistes verstehen und in Systeme integriert werden, was ethische Herausforderungen aufwirft, insbesondere hinsichtlich der moralischen Behandlung solcher Systeme.
 
 \vspace{2mm}Künstliche Intelligenz wird in sehr vielen Bereichen immer relevanter, so auch im Gesundheitswesen. Sie erlaubt präzisere Diagnosen und effizientere Behandlungen. Seit der COVID-19-Pandemie hat die Bedeutung von Technologien im Gesundheitswesen wie KI stark zugenommen.
-
-\vspace{2mm}In diesem Dokument werden die Schwierigkeiten gschildert, die mit dem Einsatz von Künstlicher Intelligenz im Gsundheitswesen verbunden sind und welche ethischen Richtlinien es dabei zu beachten gilt.
-
 \citep{ostfalia-de}
 
-
+\vspace{25mm}
 
 \section{Wie wird KI trainiert?}
 
@@ -68,9 +70,20 @@ Die künstliche Intelligenz hat das Potenzial, unser Leben stark zu verändern, 
 
 \vspace{2mm}Zusätzlich gibt es auch noch weitere verschiedene Arten des Trainings, darunter überwachtes und unüberwachtes Lernen. Bei überwachtem Lernen werden gelabelte Daten verwendet, wodurch der Algorithmus wie beim maschinellen Lernen kontinuierlich trainiert wird. Also die KI lernt sich selbstständig. Im unüberwachten Lernen erkennt die KI, wie im Deep Learning, Muster, worin gelabelte Daten sind.
 
-\vspace{2mm}Bei dem zweiten Schritt, der Validierung, wird die KI auf ihre Leistung mit neuen Daten geprüft. Das bringt das Ergebnis, ob das Modell verbessert werden muss oder das Training abgeschlossen ist. Schließlich im dritten Schritt, dem Testen, wird die gelernte KI in der realen Welt geprüft.
+\vspace{2mm}Bei dem zweiten Schritt, der Validierung, wird die KI auf ihre Leistung mit neuen Daten geprüft. Das bringt das Ergebnis, ob das Modell verbessert werden muss oder das Training abgeschlossen ist.
+
+\vspace{2mm}Schließlich im dritten Schritt, dem Testen, wird die gelernte KI in der realen Welt geprüft.
 
 \citep{clickworker-de}
+
+
+\begin{figure}[h]
+    \centering 
+    \includegraphics[width=0.8\textwidth]{diagram.png}
+    \caption{3 Teilschritte beim Training einer KI}
+    %\label{fig:meme}
+    \end{figure}
+
 
 
 
@@ -78,9 +91,7 @@ Die künstliche Intelligenz hat das Potenzial, unser Leben stark zu verändern, 
 
 
 
-\section{Quellen}
 
-Etwas mit Änderung hier am Ende.
 
 \printbibliography
 
