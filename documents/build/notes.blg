@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.blg'
+[249] biber-MSWIN64:340> INFO - === 
+[343] Biber.pm:419> INFO - Reading 'c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf'
+[612] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[695] bbl.pm:660> INFO - Writing 'c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl' with encoding 'UTF-8'
+[695] bbl.pm:763> INFO - Output to c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bbl
+[696] Biber.pm:131> WARN - The file 'c:/Users/larsb/OneDrive/Informatik/06-data-ethics-and-ai-e282244/documents/build/notes.bcf' does not contain any citations!
+[696] Biber.pm:133> INFO - WARNINGS: 1

@@ -1,15 +1,17 @@
 \documentclass{report}
-
+ 
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
 \usepackage{csquotes}
-\usepackage[a4paper]{geometry}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{graphicx}
 
 \usepackage[
     backend=biber,
-    style=apa,
+    style=authoryear,
     sortlocale=de_DE,
     natbib=true,
     url=false,
@@ -24,34 +26,72 @@
 \addbibresource{../references/bibliography.bib}
 
 
-\title{Ethik im Umgang mit Daten}
-\author{Name des Autors}
+\title{Welche ethischen Herausforderungen entstehen durch den Einsatz von KI im Gesundheitswesen?}
+\author{Lars}
 \date{\today}
+
+
+\parindent=0em
 
 
 \begin{document}
 
 \maketitle
 
-\abstract{
-    Dies ist eine Vorlage für eine Maturarbeit in der Informatik am Gymnasium Muttenz. Sie dient dazu, die Arbeit schnell und einfach zu starten und sollte einen guten Überblick über die Arbeit bieten.
+
+
+\abstract{In diesem Dokument werden die Schwierigkeiten gschildert, die mit dem Einsatz von Künstlicher Intelligenz im Gsundheitswesen verbunden sind und welche ethischen Richtlinien es dabei zu beachten gilt.
+
 }
+    
 
 \tableofcontents
 
+
 \chapter{Einleitung}
 
-Hier kommt die Einführung. Der Text hier sollte eigentlich noch viel länger sein, so das hier nicht so merkwürdige Umbrüche entstehen.
+\section{Was ist KI?}
+Die Künstliche Intelligenz, geprägt von John McCarthy, umfasst Systeme, die menschliche Intelligenz mechanisch nachbilden. Dabei nutzt sie Sensoren zur Datenerfassung, Informationsverarbeitung zur Entscheidungsfindung und Aktoren zur Ausführung von Handlungen. 
 
-Ich kann weitere Kapitel auch importieren.
+\vspace{2mm}Die KI ist mittlerweile kaum mehr von unserer Gesellschaft wegzudenken. Dabei unterstützt sie uns beim Lösen komplexer Probleme. Was viele nicht wissen ist, dass es zwei Arten von KI gibt: schwache KI, die einfache Aufgaben erfüllen kann und diese auch mit wenigen Ausnahmen präzise ausführt, und die starke KI, die eine menschenähnliche Intelligenz und unabhängige Funktionsweisen aufweist und erfordert. Doch um eine starke KI zum Laufen zu bringen, muss sie erstmal die Funktionsweisen und Eigenschaften des menschlichen Geistes verstehen und in Systeme integriert werden, was ethische Herausforderungen aufwirft, insbesondere hinsichtlich der moralischen Behandlung solcher Systeme.
+
+\vspace{2mm}Künstliche Intelligenz wird in sehr vielen Bereichen immer relevanter, so auch im Gesundheitswesen. Sie erlaubt präzisere Diagnosen und effizientere Behandlungen. Seit der COVID-19-Pandemie hat die Bedeutung von Technologien im Gesundheitswesen wie KI stark zugenommen.
+\citep{ostfalia-de}
+
+\vspace{25mm}
+
+\section{Wie wird KI trainiert?}
+
+Die künstliche Intelligenz hat das Potenzial, unser Leben stark zu verändern, sei es durch selbstfahrende Autos oder Roboter. Doch um diese Träume zu verwirklichen, muss das KI-System darauf trainiert werden.
+
+\vspace{2mm}Es gibt drei Teilschritte beim Training unserer Assistenten (Training, Validierung und Testen). 
+
+\vspace{2mm}Algorithmen werden im Trainingsprozess mit Daten gefüttert, dabei entstehen Vorhersagen und ihre Genauigkeit wird verbessert. Zum einen wird maschinell gelernt. Dabei lernen sie aus Daten und verbessern sich dabei fortlaufend. Zum anderen gibt es das Deep Learning. Es werden tiefe neuronale Netze eingesetzt, um gewisse Muster zu analysieren und zu erkennen.
+
+\vspace{2mm}Zusätzlich gibt es auch noch weitere verschiedene Arten des Trainings, darunter überwachtes und unüberwachtes Lernen. Bei überwachtem Lernen werden gelabelte Daten verwendet, wodurch der Algorithmus wie beim maschinellen Lernen kontinuierlich trainiert wird. Also die KI lernt sich selbstständig. Im unüberwachten Lernen erkennt die KI, wie im Deep Learning, Muster, worin gelabelte Daten sind.
+
+\vspace{2mm}Bei dem zweiten Schritt, der Validierung, wird die KI auf ihre Leistung mit neuen Daten geprüft. Das bringt das Ergebnis, ob das Modell verbessert werden muss oder das Training abgeschlossen ist.
+
+\vspace{2mm}Schließlich im dritten Schritt, dem Testen, wird die gelernte KI in der realen Welt geprüft.
+
+\citep{clickworker-de}
+
+
+\begin{figure}[h]
+    \centering 
+    \includegraphics[width=0.8\textwidth]{diagram.png}
+    \caption{3 Teilschritte beim Training einer KI}
+    %\label{fig:meme}
+    \end{figure}
+
+
+
 
 \input{chap_methode.tex}
 
-\section{Etwas mit Quellen}
 
-Etwas mit Änderung hier am Ende.
 
-Wenn ich eine Quelle zitieren möchte, kann ich das ganze einfach am Ende des Satzes machen \citep{example}. Oder wie \citet{example} sagt, auch mitten im Text.
+
 
 \printbibliography
 
